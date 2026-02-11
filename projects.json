@@ -40,5 +40,12 @@
     "author": "Stefan Wenzlhumer",
     "year": "2025_WS",
     "status": 1
-  }
+  },
+  {
+      "title": "Zombieshooter",
+    "folder": "zombieshooter",
+    "author": "Florian oberhumer",
+    "year": "2025_WS",
+    "status": 1
+  },
 ]
