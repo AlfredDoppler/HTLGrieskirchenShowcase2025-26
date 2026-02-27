@@ -97,5 +97,12 @@
     "author": "San Diego Friedwagner",
     "year": "2025_WS",
     "status": 1
+  },
+  {
+    "title": "Tower Defense",
+    "folder": "TowerDefense",
+    "author": "Florian Schlager",
+    "year": "2025_WS",
+    "status": 0
   }
 ]
