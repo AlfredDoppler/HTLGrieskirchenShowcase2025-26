@@ -162,5 +162,12 @@
     "author": "Angelika Köck",
     "year": "2026_SS",
     "status": 1
+  },
+  {
+    "title": "Tetrix",
+    "folder": "Tetrix",
+    "author": "Stefan Adlesgruber",
+    "year": "2026_SS",
+    "status": 1
   }
 ]
