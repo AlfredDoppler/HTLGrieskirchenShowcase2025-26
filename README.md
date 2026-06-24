@@ -64,3 +64,5 @@ Name of the year (must be the same as the year folder directly in the `projects`
 Just copy the `index.html`, `app.json` and `projects.json` to the new repository. There create a new folder called `projects` with subfolders named by year (e.g. 2017_SS) and update the `app.json` with the new values.
 ### That´s it :)
 
+# Meddl Loide
+

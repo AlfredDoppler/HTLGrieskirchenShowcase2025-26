@@ -7,18 +7,19 @@
     "status": 1
   },
   {
-    "title": "empty2",
-    "folder": "empty2",
-    "author": "empty2",
-    "year": "2025_WS",
-    "status": 1
-  },
-  {
     "title": "Plants vs. Zombies",
     "folder": "Plants vs. Zombies",
     "author": "Tobias Hofinger",
     "year": "2025_WS",
     "status": 1
+  },
+  {
+    "title": "Steelborn",
+    "folder": "Steelborn",
+    "author": "Anel Hrvacic",
+    "year": "2025_WS",
+    "info": "Hollow Knight Colosseum remake",
+    "status": "1"
   },
   {
     "title": "Let me ruin your fun",
@@ -35,9 +36,116 @@
     "status": 1
   },
   {
+    "title": "unknamend Zombie Shooter",
+    "folder": "zombieshooter",
+    "author": "Florian Oberhumer",
+    "year": "2032",
+    "info": "supper game",
+    "status": "0"
+  },
+  {
     "title": "HyperKine",
     "folder": "HyperKine",
     "author": "Clemens Auinger",
+    "year": "2025_WS",
+    "status": 1
+  },
+  {
+    "title": "EndlessRunner",
+    "folder": "EndlessRunner",
+    "author": "Stefan Wenzlhumer",
+    "year": "2025_WS",
+    "status": 1
+  },
+  {
+    "title": "Zombieshooter",
+    "folder": "zombieshooter",
+    "author": "Florian oberhumer",
+    "year": "2025_WS",
+    "status": 1
+  },
+  {
+    "title": "Arkenfall",
+    "folder": "Arkenfall",
+    "author": "Stefan Adlesgruber",
+    "year": "2025_WS",
+    "status": 1
+  },
+  {
+    "title": "MythQuest",
+    "folder": "MythiQuest",
+    "author": "Thorsten Kollnberger",
+    "year": "2025_WS",
+    "status": 1
+  },
+  {
+    "title": "Pokehunt",
+    "folder": "Pokehunt",
+    "author": "Maximilian Greifeneder",
+    "year": "2025_WS",
+    "status": 1
+  },
+  {
+    "title": "SwitchingPlatforms",
+    "folder": "SwitchingPlatforms",
+    "author": "Moritz Mueller",
+    "year": "2025_WS",
+    "status": 1
+  },
+  {
+    "title": "2d extraction shooter",
+    "folder": "2d_extraction_shooter",
+    "author": "Michael Spišák",
+    "year": "2025_WS",
+    "status": 0
+  },
+  {
+    "title": "Shellshock v2",
+    "folder": "shellshock_v2",
+    "author": "Noah Aspöck",
+    "year": "2025_WS",
+    "status": -1
+  },
+  {
+    "title": "Pokemon Defender",
+    "folder": "PokemonDefender",
+    "author": "San Diego Friedwagner",
+    "year": "2025_WS",
+    "status": 1
+  },
+  {
+    "title": "Hookline",
+    "folder": "Hookline",
+    "author": "Julian Allerstorfer",
+    "year": "2025_WS",
+    "status": 1
+  },
+  {
+    "title": "Guns & Duns",
+    "folder": "Guns & Duns",
+    "author": "Jakob Kaltenböck",
+    "year": "2025_WS",
+    "status": 1
+  },
+  {
+    "title": "Polybridge Fake",
+    "folder": "Polybridge2.0",
+    "author": "Hattinger",
+    "year": "2025_WS",
+    "info": "HAllo",
+    "status": "0"
+  },
+  {
+    "title": "Tower Defense",
+    "folder": "TowerDefense",
+    "author": "Florian Schlager",
+    "year": "2025_WS",
+    "status": "0"
+  },
+  {
+    "title": "Kinda hard Golf",
+    "folder": "Kinda hard Golf",
+    "author": "David Hehenberger",
     "year": "2025_WS",
     "status": 1
   }
