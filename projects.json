@@ -148,5 +148,12 @@
     "author": "David Hehenberger",
     "year": "2025_WS",
     "status": 1
+  },
+    {
+    "title": "Ferrum Gravis",
+    "folder": "ferrum_gravis",
+    "author": "Clemens Auinger",
+    "year": "2025_SS",
+    "status": 16
   }
 ]
