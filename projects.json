@@ -202,8 +202,14 @@
   {
     "title": "World Of Skyblock",
     "folder": "World_Of_Skyblock",
-    "author": "Sebastian Sternbauer",
+    "author": "Sebastian Schild",
     "year": "2026_SS",
     "status": 1
+  },{
+    "title": "Shellshock_v2 pt.2",
+    "folder": "Shellshock",
+    "author": "Noah Aspöck",
+    "year": "2026_SS",
+    "status": 0
   }
 ]
