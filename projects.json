@@ -25,7 +25,7 @@
         "title": "kar drajving",
         "folder": "karDrajving",
         "author": "Anel Hrvacic",
-        "year": "2025_SS",
+        "year": "2026_SS",
         "info": "Drive and fly car",
         "status": "1"
     },
@@ -191,5 +191,18 @@
     "author": "Elias Auinger",
     "year": "2026_SS",
     "status": 1
+  },
+  {
+    "title": "NeonDrift",
+    "folder": "NeonDrift",
+    "author": "Jonas Sternbauer",
+    "year": "2026_SS",
+    "status": 1
+  },{
+    "title": "Shellshock_v2 pt.2",
+    "folder": "Shellshock",
+    "author": "Noah Aspöck",
+    "year": "2026_SS",
+    "status": 0
   }
 ]
