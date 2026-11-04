@@ -1,4 +1,4 @@
-﻿[![HTL-Grieskirchen](http://www.htl-grieskirchen.net/fileadmin/bilder/logo.png)](http://htl-grieskirchen.net)
+﻿[![HTL-Grieskirchen](https://htl-grieskirchen.at/wp-content/themes/htl-grieskirchen/assets/images/logo-color.webp)]
 # Showcase 2025-26
 
 
