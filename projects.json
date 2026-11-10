@@ -19,7 +19,7 @@
     "author": "Anel Hrvacic",
     "year": "2025_WS",
     "info": "Hollow Knight Colosseum remake",
-    "status": "1"
+    "status": 1
   },
   {  
         "title": "kar drajving",
@@ -27,7 +27,7 @@
         "author": "Anel Hrvacic",
         "year": "2026_SS",
         "info": "Drive and fly car",
-        "status": "1"
+        "status": 1
     },
   {
     "title": "Let me ruin your fun",
@@ -56,7 +56,7 @@
     "author": "Florian Oberhumer",
     "year": "2032",
     "info": "supper game",
-    "status": "0"
+    "status": 0
   },
   {
     "title": "HyperKine",
@@ -148,14 +148,14 @@
     "author": "Hattinger",
     "year": "2025_WS",
     "info": "HAllo",
-    "status": "0"
+    "status": 0
   },
   {
     "title": "Tower Defense",
     "folder": "TowerDefense",
     "author": "Florian Schlager",
     "year": "2025_WS",
-    "status": "0"
+    "status": 0
   },
   {
     "title": "Kinda hard Golf",
