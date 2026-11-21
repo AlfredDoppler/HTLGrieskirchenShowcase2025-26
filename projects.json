@@ -1,12 +1,5 @@
 [
   {
-    "title": "empty",
-    "folder": "empty",
-    "author": "empty",
-    "year": "2025_WS",
-    "status": 1
-  },
-  {
     "title": "Plants vs. Zombies",
     "folder": "Plants vs. Zombies",
     "author": "Tobias Hofinger",
@@ -21,14 +14,14 @@
     "info": "Hollow Knight Colosseum remake",
     "status": 1
   },
-  {  
-        "title": "kar drajving",
-        "folder": "karDrajving",
-        "author": "Anel Hrvacic",
-        "year": "2026_SS",
-        "info": "Drive and fly car",
-        "status": 1
-    },
+  {
+    "title": "kar drajving",
+    "folder": "karDrajving",
+    "author": "Anel Hrvacic",
+    "year": "2026_SS",
+    "info": "Drive and fly car",
+    "status": 1
+  },
   {
     "title": "Let me ruin your fun",
     "folder": "Let me ruin your fun",
@@ -49,14 +42,6 @@
     "author": "Jonas Sternbauer",
     "year": "2025_WS",
     "status": 1
-  },
-  {
-    "title": "unknamend Zombie Shooter",
-    "folder": "zombieshooter",
-    "author": "Florian Oberhumer",
-    "year": "2032",
-    "info": "supper game",
-    "status": 0
   },
   {
     "title": "HyperKine",
@@ -109,9 +94,9 @@
   },
   {
     "title": "2d extraction shooter",
-    "folder": "2d_extraction_shooter",
+    "folder": "2d_extraction_game",
     "author": "Michael Spišák",
-    "year": "2025_WS",
+    "year": "2026_SS",
     "status": 0
   },
   {
@@ -165,28 +150,21 @@
     "status": 1
   },
   {
-        "title": "BOOKofGrieskirchen",
-    "folder": "BOOKofGrieskirchen",
-    "author": "Florian Oberhumer",
-    "year": "2026_SS",
-    "status": 1
-  },
-  {
-        "title": "LevelDevil",
+    "title": "LevelDevil",
     "folder": "LevelDevil",
     "author": "Angelika Köck",
     "year": "2026_SS",
     "status": 1
   },
   {
-        "title": "JumpnRun",
+    "title": "JumpnRun",
     "folder": "JumpnRun",
     "author": "Stefan Wenzlhumer",
     "year": "2026_SS",
     "status": 1
   },
   {
-        "title": "Katamari_V1",
+    "title": "Katamari_V1",
     "folder": "Katamari_V1",
     "author": "Elias Auinger",
     "year": "2026_SS",
@@ -198,11 +176,82 @@
     "author": "Jonas Sternbauer",
     "year": "2026_SS",
     "status": 1
-  },{
-    "title": "Shellshock_v2 pt.2",
-    "folder": "Shellshock",
-    "author": "Noah Aspöck",
+  },
+  {
+    "title": "AffenJump",
+    "folder": "AffenJump",
+    "author": "Johannes Lakoschek",
+    "year": "2025_WS",
+    "status": 1
+  },
+  {
+    "title": "Flappy Plane",
+    "folder": "Flappy Bird",
+    "author": "tobirbd",
+    "year": "2025_WS",
+    "status": 1
+  },
+  {
+    "title": "Foba's Pong 2D",
+    "folder": "PongGame",
+    "author": "Foba1530",
+    "year": "2025_WS",
+    "status": 1
+  },
+  {
+    "title": "Splat!",
+    "folder": "Splat!_build_WS2025",
+    "author": "StrangerandDanger",
+    "year": "2025_WS",
+    "status": 1
+  },
+  {
+    "title": "Temu Dash",
+    "folder": "Temu Dash",
+    "author": "berecC22003",
+    "year": "2025_WS",
+    "status": 1
+  },
+  {
+    "title": "Whack-A-Mole",
+    "folder": "WhackAMoleWeb",
+    "author": "lukasKlausi",
+    "year": "2025_WS",
+    "status": 1
+  },
+  {
+    "title": "Dudl Jump",
+    "folder": "Builds",
+    "author": "Elias595",
+    "year": "2025_WS",
+    "status": 1
+  },
+  {
+    "title": "ShootingGame",
+    "folder": "Web",
+    "author": "Samuel07101",
+    "year": "2025_WS",
+    "status": 1
+  },
+  {
+    "title": "Splat! (SS 2026)",
+    "folder": "Splat!_build_SS2026",
+    "author": "StrangerandDanger",
     "year": "2026_SS",
-    "status": 0
+    "status": 1
+  },
+  {
+    "title": "Tetrix",
+    "folder": "Tetrix",
+    "author": "IlumiHD",
+    "year": "2026_SS",
+    "status": 1
+  },
+  {
+    "title": "Shapes",
+    "folder": "Shapes",
+    "author": "Leo Füreder",
+    "year": "2026_SS",
+    "status": 1
   }
 ]
